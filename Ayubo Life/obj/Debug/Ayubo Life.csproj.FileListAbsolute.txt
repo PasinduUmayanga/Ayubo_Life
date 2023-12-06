@@ -1,0 +1,31 @@
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\bin\Debug\Ayubo Life.exe.config
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\bin\Debug\Ayubo Life.exe
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\bin\Debug\Ayubo Life.pdb
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.csproj.AssemblyReference.cache
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Form1.resources
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Properties.Resources.resources
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.csproj.GenerateResource.cache
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.csproj.CoreCompileInputs.cache
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.exe
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.pdb
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Form2.resources
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Isuru\source\repos\Ayubo Life\Ayubo Life\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Projects\Ayubo Life\Ayubo Life\bin\Debug\Ayubo Life.exe.config
+D:\Projects\Ayubo Life\Ayubo Life\bin\Debug\Ayubo Life.exe
+D:\Projects\Ayubo Life\Ayubo Life\bin\Debug\Ayubo Life.pdb
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Form1.resources
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Form2.resources
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Hire.resources
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Home.resources
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Properties.Resources.resources
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.csproj.GenerateResource.cache
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.csproj.CoreCompileInputs.cache
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.csproj.CopyComplete
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.exe
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.pdb
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Registration.resources
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Rent.resources
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.Paymnet.resources
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo Life.csproj.AssemblyReference.cache
+D:\Projects\Ayubo Life\Ayubo Life\obj\Debug\Ayubo_Life.AdministratorLogin.resources
