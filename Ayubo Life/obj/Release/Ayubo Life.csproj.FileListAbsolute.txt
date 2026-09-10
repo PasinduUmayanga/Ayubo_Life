@@ -1,0 +1,19 @@
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo Life.csproj.AssemblyReference.cache
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.AdministratorLogin.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.Form1.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.Form2.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.Paymnet.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.Rent.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.Hire.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.Registration.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.Home.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo_Life.Properties.Resources.resources
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo Life.csproj.GenerateResource.cache
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo Life.csproj.CoreCompileInputs.cache
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\bin\Release\Ayubo Life.exe.config
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\bin\Release\Ayubo Life.exe
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\bin\Release\Ayubo Life.pdb
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo Life.csproj.Up2Date
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo Life.exe
+D:\Kepler Repository\.worktrees\Ayubo-build-6230d\Ayubo Life\obj\Release\Ayubo Life.pdb

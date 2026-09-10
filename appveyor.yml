@@ -1,0 +1,39 @@
+version: 1.0.{build}
+
+image: Visual Studio 2022
+
+configuration: Release
+platform: Any CPU
+
+clone_depth: 1
+
+cache:
+  - packages -> **\packages.config
+  - '%USERPROFILE%\.nuget\packages -> **\*.csproj, **\packages.config'
+  - '%LOCALAPPDATA%\NuGet\Cache -> **\*.csproj, **\packages.config'
+
+install:
+  - ps: nuget restore "Ayubo Life.sln"
+
+before_build:
+  - ps: |
+      $ErrorActionPreference = 'Stop'
+      $packageReferenceProjects = Get-ChildItem -Recurse -Filter *.csproj |
+        Where-Object { Select-String -Path $_.FullName -Pattern '<PackageReference' -Quiet }
+
+      if ($packageReferenceProjects) {
+        foreach ($project in $packageReferenceProjects) {
+          dotnet list $project.FullName package --vulnerable --include-transitive
+        }
+      } else {
+        Write-Host 'No PackageReference NuGet dependencies found to audit.'
+      }
+
+build_script:
+  - ps: msbuild "Ayubo Life.sln" /p:Configuration="$env:CONFIGURATION" /p:Platform="$env:PLATFORM" /m /verbosity:minimal
+
+test: off
+
+artifacts:
+  - path: 'Ayubo Life\bin\Release'
+    name: Ayubo-Life-Release
