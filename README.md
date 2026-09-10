@@ -23,16 +23,53 @@ Small rental businesses need a simple desktop tool to keep common service tasks 
 
 The current application flow is centered on login, customer registration, vehicle hire/rent workflows, and payment entry.
 
-| Step | Screen | Business Purpose |
-| --- | --- | --- |
-| 1 | [Start / Login Entry](docs/screenshots/01-start-login-entry.png) | Opens the application and provides the first login action. |
-| 2 | [User Login](docs/screenshots/02-user-login.png) | Captures username and password, then routes the user to the Home screen. Current code does not validate credentials. |
-| 3 | [Home](docs/screenshots/03-home.png) | Main navigation hub for Registration, Hire, Rent, Payment, and Administrator access. |
-| 4 | [Customer Registration](docs/screenshots/04-registration.png) | Captures customer name, address, email, phone number, licence number, and register number. |
-| 5 | [Vehicle Hire](docs/screenshots/05-hire.png) | Captures hire details such as register number, pickup date, vehicle type, number of days, package type, and estimated price. |
-| 6 | [Vehicle Rent](docs/screenshots/06-rent.png) | Captures rent details such as register number, pickup date, driver availability, vehicle type, number of days, and estimated price. |
-| 7 | [Payment](docs/screenshots/07-payment.png) | Supports hire/rent payment inputs and displays payment information fields such as package, waiting charge, extra kilometer charge, number of days, and total amount. |
-| 8 | [Administrator Login](docs/screenshots/08-admin-login.png) | Provides an administrator entry screen. Current code returns to Home without credential validation. |
+### 1. Start / Login Entry
+
+The application opens with a taxi-themed entry screen. The user starts the system flow by selecting the login action.
+
+![Start / Login Entry](docs/screenshots/01-start-login-entry.png)
+
+### 2. User Login
+
+The login screen captures username and password, then routes the user to the Home screen. Current code does not validate credentials.
+
+![User Login](docs/screenshots/02-user-login.png)
+
+### 3. Home
+
+The Home screen is the main navigation hub for Registration, Hire, Rent, Payment, and Administrator access.
+
+![Home](docs/screenshots/03-home.png)
+
+### 4. Customer Registration
+
+The registration screen captures customer name, address, email, phone number, licence number, and register number.
+
+![Customer Registration](docs/screenshots/04-registration.png)
+
+### 5. Vehicle Hire
+
+The hire screen captures register number, pickup date, vehicle type, number of days, package type, and estimated price.
+
+![Vehicle Hire](docs/screenshots/05-hire.png)
+
+### 6. Vehicle Rent
+
+The rent screen captures register number, pickup date, driver availability, vehicle type, number of days, and estimated price.
+
+![Vehicle Rent](docs/screenshots/06-rent.png)
+
+### 7. Payment
+
+The payment screen supports hire/rent payment inputs and displays payment information fields such as package, waiting charge, extra kilometer charge, number of days, and total amount.
+
+![Payment](docs/screenshots/07-payment.png)
+
+### 8. Administrator Login
+
+The administrator login screen provides an administrator entry point. Current code returns to Home without credential validation.
+
+![Administrator Login](docs/screenshots/08-admin-login.png)
 
 ### Flow Summary
 
